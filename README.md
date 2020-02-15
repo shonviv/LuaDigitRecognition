@@ -1,5 +1,5 @@
 # LuaDigitRecognition
-Application of a deep neural network in handwritten digit recognition/
+Application of a deep neural network in handwritten digit recognition.
 
 The neural net model consists of 3 hidden layers and an output layers to train the model. A Python program using the sci-kit learn library was written to export the initial transformed data for feature scaling. 
 
